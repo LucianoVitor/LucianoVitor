@@ -84,9 +84,9 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
 ## 🟡 Mapa de Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-contribution-grid-pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-contribution-grid-pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
 </picture>
 
 ---
