@@ -1,11 +1,11 @@
 🇺🇸 [English version here](./readme.en.md)
 
 <div align="center">
-  <img src="./card.pt.png" alt="Ficha de personagem" width="700"/>
+  <img src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/luciano-rpg-card.png" alt="Ficha de personagem" width="700"/>
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhpZmEyc3ZpeW1rbW1ybmxnZ203dGlwMjJkZ2ZkZWVoNzV0dWVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" height="330" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5YmExODIyMDdiYTcyOGNlOTRiNGM2ZTFmYzFkYWRiYzU3MjI3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCqlbyG8o/giphy.gif" height="330" />
 </div>
 
 ---
@@ -71,22 +71,22 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
 ## 📊 Stats do GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoVitor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucianoVitor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoVitor&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
 
 ---
 
 ## 🟡 Mapa de Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -96,14 +96,13 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
 <table>
   <tr>
     <td align="left">
-      <a href="https://github.com/SEU_USUARIO_GITHUB/ciclotech" target="_blank">
-        <img width="400" alt="CicloTECH" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=ciclotech&theme=shades-of-purple&hide_border=false" />
+      <a href="https://github.com/LucianoVitor/CicloTECH" target="_blank">
+        <img width="400" alt="CicloTECH" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoVitor&repo=CicloTECH&theme=shades-of-purple&hide_border=false" />
       </a>
     </td>
     <td align="left">
-      <!-- Você pode colocar outro repositório mobile ou frontend de destaque aqui -->
-      <a href="https://github.com/SEU_USUARIO_GITHUB/seu-projeto-mobile" target="_blank">
-        <img width="400" alt="Projeto Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=seu-projeto-mobile&theme=shades-of-purple&hide_border=false" />
+      <a href="https://github.com/LucianoVitor/Album_copa_mobile" target="_blank">
+        <img width="400" alt="Album da Copa Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoVitor&repo=Album_copa_mobile&theme=shades-of-purple&hide_border=false" />
       </a>
     </td>
   </tr>
@@ -116,10 +115,10 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
 > 💡 *Sempre aberto a desafios no ecossistema Frontend e Mobile, projetos inovadores e conexões na área de desenvolvimento!*
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/LucianoVitor/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:seu.email@gmail.com" target="_blank">
+  <a href="mailto:seu.email.luciano@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
