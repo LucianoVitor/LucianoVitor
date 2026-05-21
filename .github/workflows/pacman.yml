@@ -1,0 +1,20 @@
+name: Generate Pacman Mitchell-Hedges Graph
+
+on:
+  schedule: # Roda automaticamente a cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite que você rode manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman Contribution Graph
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: LucianoVitor
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
