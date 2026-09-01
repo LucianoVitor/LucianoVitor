@@ -1,20 +1,31 @@
-name: Generate Pacman Mitchell-Hedges Graph
+name: Generate Pacman Contribution Animation
 
 on:
-  schedule: # Roda automaticamente a cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite que você rode manualmente
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: lowlighter/metrics@latest
+      - name: Generate pacman SVG
+        uses: Platane/snk@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: LucianoVitor
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          github_user_name: LucianoVitor
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
