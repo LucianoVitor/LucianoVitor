@@ -1,7 +1,7 @@
 🇺🇸 [English version here](./readme.en.md)
 
 <div align="center">
-<img src="./luciano-rpg-card.png" alt="Ficha de personagem" width="700"/>
+  <img src="./luciano-rpg-card.png" alt="Ficha de personagem" width="700"/>
 </div>
 
 <div align="center">
@@ -60,33 +60,35 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
 ---
 
 ## 🌟 Diferenciais
+
 🧠  Olho clínico para Design →  Foco em interfaces limpas, modernas e de alto padrão (Tailwind & Assets organizados)
 🤝  Trabalho Colaborativo   →  Experiência liderando times acadêmicos na Fatec e integrando soluções reais
 🎯  Organização de Projeto   →  Eliminação de gargalos, refatoração de estrutura de pastas e consistência de código
 📖  Evolução Constante      →  De background em Java migrado para especialização sólida em Frontend & Mobile
 🗣️  Visão de Negócio        →  Alinhando código com impacto sustentável e social (como o CicloTECH)
 
+
 ---
 
 ## 📊 Stats do GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoVitor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucianoVitor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LucianoVitor&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="Luciano's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LucianoVitor&layout=compact&card_width=320&theme=tokyonight&hide_border=false" height="150" alt="Luciano's Top Languages" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoVitor&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoVitor&theme=tokyo-night&area=true&hide_border=false&hide_title=true" height="300" alt="activity-graph" />
 
 ---
 
 ## 🟡 Mapa de Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/main/github-metrics.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/LucianoVitor/LucianoVitor/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -97,12 +99,12 @@ Apaixonado por **design de interfaces**, **animações fluidas** e aquela sensa�
   <tr>
     <td align="left">
       <a href="https://github.com/LucianoVitor/CicloTECH" target="_blank">
-        <img width="400" alt="CicloTECH" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoVitor&repo=CicloTECH&theme=shades-of-purple&hide_border=false" />
+        <img width="400" alt="CicloTECH" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucianoVitor&repo=CicloTECH&theme=tokyonight&hide_border=false" />
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/LucianoVitor/Album_copa_mobile" target="_blank">
-        <img width="400" alt="Album da Copa Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoVitor&repo=Album_copa_mobile&theme=shades-of-purple&hide_border=false" />
+      <a href="https://github.com/LucianoVitor/alakazan" target="_blank">
+        <img width="400" alt="Alakazan" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucianoVitor&repo=alakazan&theme=tokyonight&hide_border=false" />
       </a>
     </td>
   </tr>
