@@ -1,7 +1,7 @@
 🇺🇸 [English version here](./readme.en.md)
 
 <div align="center">
-  <img src="./luciano-rpg-card.png" alt="Ficha de personagem" width="700"/>
+  <img src="./luciano-rpg-card.jpeg" alt="Ficha de personagem" width="700"/>
 </div>
 
 <div align="center">
