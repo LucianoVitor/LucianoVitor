@@ -12,10 +12,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman
-        uses: alexandresanlim/Badges4-README.md-Profile@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman SVG
+        uses: abhisheknaiidu/snake-action@v2
         with:
           github_user_name: LucianoVitor
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
