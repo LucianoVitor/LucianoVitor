@@ -12,12 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate pacman SVG
-        uses: alexandresanlim/pacman-contribution-graph@v1.0.0
+      - name: Generate Pacman
+        uses: alexandresanlim/Badges4-README.md-Profile@master
         with:
           github_user_name: LucianoVitor
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
